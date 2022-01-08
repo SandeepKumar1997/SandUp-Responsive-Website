@@ -1,0 +1,188 @@
+#title {
+  background-color: #ff254d;
+  font-family: "Outfit", sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 2.4rem;
+  padding-right: 48%;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 10px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #ffefe5;
+  font-size: medium;
+}
+
+.navbar {
+  padding-bottom: 40px;
+}
+.container-fluid {
+  padding: 2% 13%;
+}
+
+.down-btn {
+  margin: 5px 20px 0 0;
+}
+.first-img {
+  height: 500px;
+  width: 80%;
+  padding-top: 30px;
+  padding-left: 30px;
+  transform: rotate(5deg);
+}
+
+.brain-img {
+  font-size: 3rem;
+  margin: none;
+  padding-bottom: 3%;
+  color: #ff254d;
+}
+
+.work-para i:hover {
+  color: darkred;
+}
+
+.work-para {
+  text-align: center;
+  padding: 20px;
+  
+}
+
+/* .features-section{
+    margin-top: 80px;
+    margin-bottom: 60px;
+} */
+
+.work-para h3 {
+  font-family: "Outfit", sans-serif;
+  font-weight: bold;
+  font-size: 2.2rem;
+}
+
+.work-para p {
+  font-family: "Outfit", sans-serif;
+  font-weight: lighter;
+}
+
+
+#features{
+  padding: 5% 9%;
+}
+
+.features-section{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#testimonials{
+  background-color: #ff254d ;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+#testimonials em{
+  font-weight: bold;
+}
+
+#testimonials h2{
+  margin: 0;
+  padding: 100px 50px 10px 100px;
+  font-size: 2.8rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color: white;
+}
+
+.tech-img{
+  width: 250px;
+  height: 250px;
+  border-radius: 100%;
+  padding: 40px;
+}
+
+#press{
+  background-color: #A2416B ;
+  text-align: center;
+}
+
+.press-img{
+  padding: 40px;
+  
+}
+
+#press img{
+  height: 300px;
+  width: 350px;
+}
+
+#pricing{
+  padding: 3%;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+.pricing-col{
+  padding: 4% 3%;
+}
+
+.card-header{
+  background-color: #ff254d ;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.3rem;
+}
+
+@media (max-width:910px){
+  .first-img{
+    transform: rotate(0);
+  }
+
+  #title{
+    text-align: center;
+  }
+}
+
+#cta{
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  background-color: #ff254d;
+  padding: 7% 19%;
+}
+
+#cta h3{
+  font-size: 2.8rem;
+  font-weight: bolder;
+  padding-bottom: 90px;
+  color: white;
+}
+
+.cta-btn{
+  margin-bottom: 90px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+#footer{
+  padding: 8% 15%;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+}
+
+.social-icon{
+  margin: 10px 20px;
+}
